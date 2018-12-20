@@ -1,1 +1,1 @@
-From registry.gitlab.com/gitlab-org/build/cng/alpine-certificates:20171114-r3
+From registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ee:v11.5.4
