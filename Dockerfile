@@ -1,1 +1,1 @@
-From registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ee:v11.5.4
+From registry.gitlab.com/gitlab-org/build/cng/gitaly:v0.129.0
