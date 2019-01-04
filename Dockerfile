@@ -1,1 +1,1 @@
-From quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.21.0
+From registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:v8.4.1
