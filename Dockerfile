@@ -1,1 +1,1 @@
-From registry.gitlab.com/gitlab-org/build/cng/gitaly:v0.129.0
+From quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.21.0
