@@ -1,1 +1,1 @@
-From k8s.gcr.io/kube-controller-manager:v1.13.0
+From registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ee:v11.5.4
